@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A notable plot discovered in a letter sent by an agent here in London, to the Earl of Cleveland at the Hague: shewing, how the said agent set the Committee of Mincing-lane on worke, to procure an Act to put out all the old officers of the Custom-house, by which means the Customes will be destroyed. Printed (together with a list of the names of the said committee, and of the officers cashiered, and to be cashiered) for the information of the Commons of England; especially such as hold any offices in the kingdome.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89479</idno>
+            <idno type="STC">Wing M43</idno>
+            <idno type="STC">Thomason E555_30</idno>
+            <idno type="STC">ESTC R11029</idno>
+            <idno type="EEBO-CITATION">99858926</idno>
+            <idno type="PROQUEST">99858926</idno>
+            <idno type="VID">165118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165118)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A notable plot discovered in a letter sent by an agent here in London, to the Earl of Cleveland at the Hague: shewing, how the said agent set the Committee of Mincing-lane on worke, to procure an Act to put out all the old officers of the Custom-house, by which means the Customes will be destroyed. Printed (together with a list of the names of the said committee, and of the officers cashiered, and to be cashiered) for the information of the Commons of England; especially such as hold any offices in the kingdome.</title>
+                  <author>J. M.</author>
+                  <author>Cleveland, Thomas Wentworth, Earl of, 1591-1667.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.M.</note>
+                  <note>Probably a fabrication.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 19 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Customs administration --  England --  London --  Officials and employees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165118:1" rendition="simple:additions"/>
+            <p>A NOTABLE PLOT <hi>DISCOVERED</hi> IN A LETTER <hi>SENT</hi> By an <hi>AGENT</hi> here in LONDON, <hi>TO</hi> The <hi>Earl</hi> of <hi>CLEVELAND</hi> at the HAGUE: SHEWING, How the ſaid AGENT ſet the Committee of <hi>Mincing-lane</hi> on worke, to procure an Act to put out all the <hi>old Officers</hi> of the <hi>Cuſtom-houſe,</hi> by which means the Cuſtomes will be deſtroyed.</p>
+            <p>Printed (together with a <hi>Liſt</hi> of the Names of the ſaid Committee, and of the Officers Caſhiered, and to be Caſhiered) for the Information of the Commons of <hi>England;</hi> Eſpecially ſuch as hold any Offices in the Kingdome.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165118:2"/>
+            <pb n="1" facs="tcp:165118:2"/>
+            <head>
+               <hi>To the Right Honourable</hi> The Earle of <hi>CLEVELAND,</hi> at the <hi>Hague</hi> theſe preſent.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt of the 15 of <hi>April,</hi> I gave your Lordſhip an Accompt how Affaires then ſtood in the <hi>Cuſtome-houſe</hi> at <hi>London,</hi> and what I conceived would be the Iſſue in relation to thoſe many Par<g ref="char:EOLhyphen"/>ticulars then ſignified unto your Lordſhip: ſince which time, things have fallen according to our owne hearts deſire, the Gentlemen at <hi>Weſtminſter</hi> having turn'd out all the cunning Knaves or old Officers at the <hi>Cuſtome-houſe</hi> for the Port of <hi>London,</hi> without ſo much as giving them any Charge of their <hi>Delinquency:</hi> Their Names are, Sir <hi>John Jacobs,</hi> Sir <hi>Thomas Dawes,</hi> Mr. <hi>Jo: Holloway,</hi> Mr. <hi>William Tonces, Richard Chambers</hi> Alderman, Mr. <hi>Edgar,</hi> Mr. <hi>Henry Kerſley,</hi> Mr. <hi>Edward Brewer,</hi> Mr. <hi>William Thornbury,</hi> Mr. <hi>Ratcliff,</hi> Mr. <hi>Richard Lane,</hi> Mr. <hi>Wilmor,</hi> Mr. <hi>Edward Watkins, Robert Wakeman,</hi> Mr. <hi>Leaver, Jo: Norwood, Jeford Baily,</hi> Mr. <hi>Euer,</hi> Mr. <hi>Edw: Pelling,</hi> Mr. <hi>Chriſto<g ref="char:EOLhyphen"/>pher Rotheram,</hi> Mr. <hi>Cheatwood,</hi> Mr. <hi>Broden,</hi> Mr. <hi>John Blunke,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>John Davis,</hi> and Mr. <hi>Adam Edwards:</hi> theſe are the chiefe men-chaſhired in the Port of the City of <hi>London,</hi> beſides many ſcore more, whoſe Names at this preſent I cannot ſend unto your Lordſhip, in regard I have not yet had time and opporuunity to procure them, from my Friends the Committee in <hi>Mincing-lane,</hi> with whom I have the felicity to hold a ſtrict Correſpondence; eſpecially with Mr. <hi>Moyer,</hi> Mr. <hi>Shute,</hi> and Mr. <hi>Penoyer,</hi> three prime <hi>Saints:</hi> into whoſe Acquaintance I have ſo ſcrued my ſelf, that at any time they will unboſome themſelves, and entertaine me with as much confidence, as if I were a reall Member of the
+<pb n="2" facs="tcp:165118:3"/>godly Fraternity. But we muſt uſe all Arts to bring things about underhand by ſleight, ſince we are not yet in a condition to act openly; and ſo I can effect the buſineſſe wherein I have the ho<g ref="char:EOLhyphen"/>nour to be ingaged, I ſhall make no ſcruple (as the Proverb ſaies) to <hi>light a Candle to the Devill,</hi> and Court his <hi>Creatures:</hi> For, I have ſo <hi>cajoled</hi> theſe three <hi>Wittals</hi> in the Courſes they have taken, that (I dare ſay) they have (though much againſt their wills, God wot) done more for 102. than all the <hi>Carpet-Knights</hi> of our <hi>Cavalry</hi> ever did with their Drinking of Healths.</p>
+            <p>But here (my Lord) before I proceed, be your Lordſhip plea<g ref="char:EOLhyphen"/>ſed (with me) to admire the wonderfull Juſtice of God, in the ſweet Juſtice done by the Gentlemen of <hi>Weſtminſter,</hi> toward theſe old Officers of the <hi>Cuſtome-houſe</hi> before-named; who ha<g ref="char:EOLhyphen"/>ving (for their owne private reſpects) made ſhipwrack of their Loyalty, and imbarqued Themſelves, their Lives, and Eſtates, in the Service of their good Maſters at <hi>Weſtminſter,</hi> to the deſtru<g ref="char:EOLhyphen"/>ction of the King, Nobility, and Gentry, receive no other reward but to be turn'd off (without any Cauſe ſhewne) like prophane Delinquents, with their Wives and Children, to ſhare in the com<g ref="char:EOLhyphen"/>mon Calamity: So that the good men at <hi>Weſtminſter</hi> have dealt (I may ſay) with theſe their good Servants, as the mercifull <hi>Turke</hi> did with an <hi>Italian</hi> whom he had in his power, promiſing him Life if he would renounce <hi>Chriſtianity</hi> and turn <hi>Mahometan;</hi> which the <hi>Italian</hi> had no ſooner done, but the <hi>Turke</hi> immediatly cut his Throat, reckoning it too ſmall a Revenge to deſtroy the Body, except he damned his Soule too: In like manner, the old Officers of the <hi>Custome-houſe</hi> having been drawne by the Sugge<g ref="char:EOLhyphen"/>ſtions of the two Houſes from that Allegiance they owed unto His Majeſty, meerly to preſerve Themſelves of Office, have now lived to ſee themſelves turn'd out of all: and ſo They may even go to the Devill for a Reward, ſince They are like to fare no better from thoſe their mercifull Maſters.</p>
+            <p>Now (my Lord) that which tickles me moſt, is, to ſee how finely I have managed the Intereſt I had with the Committee of <hi>Mincing-lane,</hi> in making Them the Inſtruments to deſtroy the Cuſtoms of the City of <hi>London,</hi> and let many Advantages ſlip by private Conveyances beyond-ſea to His Majeſty: For, wel-know<g ref="char:EOLhyphen"/>ing that little could paſſe a Diſcovery as long as the <hi>old Foxes</hi>
+               <pb n="3" facs="tcp:165118:3"/>were in office; therefore the principall worke was ſo to order the matter that they might be turn'd out to make roome for new ones; which falling out as ones heart would have wiſh'd, the Men of <hi>Weſtminſter</hi> have put in a Company of their owne Creatures, a ſort of crack'd Citizens, and ignorant Raſcals, Fel<g ref="char:EOLhyphen"/>lowes that have been frighted out of halfe a dozen Religions and Factions, that what with the ſharking of ſome, and the ignorance of others, the Cuſtoms will not amount to halfe ſo much as they did formerly: And this I humbly intreat your Lordſhip to aſſure 102. of, with my humbleſt Service to him, upon all Occaſions.</p>
+            <p>One thing (my <hi>Lord</hi>) I had almoſt forgot, which <hi>Moyer</hi> him<g ref="char:EOLhyphen"/>ſelf told me; how that now he had cried quittance with <hi>Watkins</hi> the Head-Searcher, for ſeizing on his Lead at <hi>Graves end,</hi> by cauſing M. <hi>Walton</hi> of the Houſe of Commons, and the Committee of <hi>Mincing-lane</hi> to report his Place to be unneceſſary. <hi>Po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> take them, that they did not make this Report a yeare agoe; For, then <hi>J. P.</hi> had received the two hundred pounds which that Fox <hi>Watkins</hi> ſeized on: But he being taken out of the way, we ſhall deale well enough with the new <hi>Novices,</hi> and ſend over <hi>G.</hi> freely to ſupply our Friends; For, no man but <hi>Watkins</hi> (with his <hi>Birds<g ref="char:EOLhyphen"/>eyes</hi>) can prie ſo narrowly, or know how to make a ſtop of tranſ<g ref="char:EOLhyphen"/>porting Money. Sometimes I have crack'd a Cup with him to ſooth him in his way; and when he is once in, he ſayes, he finds Gold in <hi>Moore-Fields,</hi> and Silver at the <hi>Cuſtome houſe:</hi> And though then the Fatling looks like the God of good Company, as if he minded little elſe, yet ſure I am he is a ſubtile Youth and hath notable <hi>intelligence,</hi> as if (like our new <hi>Saints</hi>) he drove a Trade in Viſion and Revelation, and tumbles like a <hi>Firkin</hi> in eve<g ref="char:EOLhyphen"/>ry corner: In earneſt, I know him to be a very crafty Fellow in his Place; and I thinke it none of my leaſt Services to 102. in breaking the neck of his Imployment; which I effected by the meanes of Maſter <hi>Walton,</hi> Maſter <hi>Moyer,</hi> and the Committee of <hi>Mincing-lane:</hi> I have likewiſe by ſetting Friends of mine upon Maſter <hi>Wilſon</hi> of the Councell of State, made him very active a<g ref="char:EOLhyphen"/>gainſt <hi>Watkins</hi> that he may never come to play againe: And this Maſter <hi>Wilſon</hi> may be the rather induced to, in regard himſelfe and the <hi>Guinny</hi> Company are reſolved to tranſport all their Gold which lately came home from <hi>Holland,</hi> and it amounts to
+<pb n="4" facs="tcp:165118:4"/>about 30000 l. which I requeſt your Lordſhip to ſignifie to 102.</p>
+            <p>And that your Lordſhip may know who they are of the Com<g ref="char:EOLhyphen"/>mittee in <hi>Mincing-lene,</hi> with whom I correſpond, I ſhall give you their Names; and by the way I muſt tell you, I manage my Cor<g ref="char:EOLhyphen"/>reſpondence with each of them ſo warily, that not one of them knowes I deale at all with the other: they are the two <hi>Thomp<g ref="char:EOLhyphen"/>ſons,</hi> Maſter <hi>Shute,</hi> Maſter <hi>Ruſſell,</hi> the two <hi>Penoyers</hi> M. <hi>Hutchinſon,</hi> Maſter <hi>Moyer,</hi> and Maſter <hi>Bartlet;</hi> a refined Generation that count Gaine great Godlineſſe, and therefore lie at catch to ad<g ref="char:EOLhyphen"/>vance Themſelves and their Creatures upon the ruines of others, and put any Tricks (for their Profit) upon the Accompt of the Publique: And though they have all had a hand in undoing the old Officers; yet it is ſport to ſee, how they diſclaime the buſi<g ref="char:EOLhyphen"/>neſſe one after another, when any of thoſe Officers come to in<g ref="char:EOLhyphen"/>treat their Favour; which they grant them onely in faire words, confeſſing it is a ſad buſineſſe, and they are ſorry, whenas their Deſignes are to keep them out of their Offices for ever, and expoſe their Wives and Children to Beggery; which makes the poore caſhired <hi>Starvelings</hi> conſider now, that it is an ill way to gaine a Livelyhood by forfeiting their <hi>Loyalty:</hi> And it may con<g ref="char:EOLhyphen"/>vince the world of this Truth, that it is (and ever hath been) uſuall with all Maſter-Rebels and Uſurpers, when they have once gotten their ends, firſt to rid their hands of thoſe who have been moſt ſerviceable to them in their Uſurpation, and levell thoſe very Steps and Staires by which they aſcended to their height of Greatneſſe.</p>
+            <p>Therefore as they have given a <hi>Purge</hi> to all the <hi>old Officers</hi> at the <hi>Cuſtome-houſe</hi> of <hi>London,</hi> I aſſure your Lordſhip the Men of <hi>Weſtminſter</hi> intend likewiſe to proceed in the ſame Method to the caſhiring all the <hi>Officers</hi> of the <hi>Out-Ports,</hi> it being deſigned al<g ref="char:EOLhyphen"/>ready that they ſhall follow the Fate of their Brethren; And here I ſhall ſet downe a Liſt of their Names, as they were de<g ref="char:EOLhyphen"/>livered to me by one of my Friends in the <hi>Mincing</hi> Committee, <hi>Edward Nuttall,</hi> and <hi>Edward Man,</hi> of <hi>Ipſwich. John Burgis, Henry Shield,</hi> Barwick. <hi>Tho. Welby, George Sten,</hi> Boſton. <hi>William Bond, Hugh Nuttlebury,</hi> Bridgwater. <hi>Luke Hodges, Thomas Shewell, Will: Hill, Hugh Lewis,</hi> Briſtol. <hi>Hugh Lindſey, Will: Edwards,</hi> Che<g ref="char:EOLhyphen"/>ſter. <hi>Edward Herbert, Jo: Bird,</hi> Cardiff. <hi>Jo: Row,</hi> Mr. <hi>Cockeram,</hi>
+               <pb n="5" facs="tcp:165118:4"/>Chicheſter. <hi>Vincent de-la-bare, Richard Davis</hi> Bomkeeper. Dover. <hi>Richard Sanders, Walter Dibble,</hi> Exon. <hi>Robert Hill, Sam: Bruſton,</hi> Glouceſter. <hi>Matthew Aldred, Rob: Morton, Tho: Somerſcall,</hi> Hull. <hi>Henry Creamer, Tho: Tole,</hi> Lyn. <hi>John Bowen, Nicholas Squire,</hi> Mil<g ref="char:EOLhyphen"/>ford. <hi>George Fenwicke, George Blakiſton,</hi> Newcaſtle. <hi>Nich: Opie, Henry Hatſell,</hi> Plymouth. <hi>Henry Champant, Tho: Tulfſis, Mat<g ref="char:EOLhyphen"/>thew Lock,</hi> Southampton. <hi>Robert Fowler,</hi> Rocheſter. <hi>George Plea, Thomas Walton,</hi> Weymouth. <hi>Will: Greenwood, Will: Barret,</hi> Yar<g ref="char:EOLhyphen"/>mouth. <hi>John Robinſon,</hi> Graves-end: who are all deſigned to loſe their Places, as the Officers of the <hi>Cuſtome-houſe</hi> have done at <hi>London;</hi> And many of them are ſo poore, (their Livelyhood de<g ref="char:EOLhyphen"/>pending on their Places) that their Families muſt go a begging; yet they ſhall be put out without any cauſe ſhewne, ſave onely the <hi>will</hi> of the Gentlemen of the Committee of <hi>Mincing-lane;</hi> whereby they will be made as ſad Examples of diſloyalty as their Brethren of the <hi>Cuſtome-houſe</hi> at <hi>London.</hi>
+            </p>
+            <p>I beſeech your Lordſhip faile not to let 102. ſee this Accompt, which I hope to bring to ſuch an Iſſue as may conduce much to his Service: For, when all the <hi>old Officers</hi> of the Ports are once caſhired, the new <hi>Ignoramuſes</hi> will contribute to our advantage beyond imagination, as well as the Ignorance and Covetouſneſſe of the Brethren of the <hi>Mincing</hi> Committee hath done at the <hi>Cuſtome-houſe</hi> of <hi>London</hi> pretty well already: For, beſides the benefit of privy Tranſportation (which the new <hi>Owles</hi> wil never eſpie) half the Cuſtoms muſt needs be loſt through their want of diſcretion; which wil no more diſpleaſe the <hi>Merchants,</hi> in having an opportunity to coſen that Thing call'd the <hi>State,</hi> than it will me to ſee Things at the ſame paſſe in the <hi>Out-Ports,</hi> as they are now at <hi>London:</hi> Concerning which, I ſhall labour and watch to give a farther Accompt unto you,</p>
+            <closer>
+               <dateline>London, <date>May 2. 1649. Stylo loci.</date>
+               </dateline>
+               <salute>(My Lord)</salute> 
+               <signed>Your Lordſhips moſt humble, and moſt faithfull Servant, J. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
